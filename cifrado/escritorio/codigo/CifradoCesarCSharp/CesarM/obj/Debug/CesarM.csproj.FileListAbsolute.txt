@@ -1,0 +1,60 @@
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\bin\Debug\CesarM.exe.config
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\bin\Debug\CesarM.exe
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\bin\Debug\CesarM.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.Form1.resources
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.Properties.Resources.resources
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.csproj.GenerateResource.Cache
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.exe
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.pdb
+c:\users\isaac\documents\visual studio 2015\Projects\CesarM\CesarM\obj\Debug\CesarM.csprojResolveAssemblyReference.cache
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\CesarM.exe.config
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\obj\Debug\CesarM.exe
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\obj\Debug\CesarM.pdb
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\CesarM.exe
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\CesarM.pdb
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\mscorlib.dll
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\normidna.nlp
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\normnfc.nlp
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\normnfd.nlp
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\normnfkc.nlp
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\bin\Debug\normnfkd.nlp
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\obj\Debug\CesarM.csprojResolveAssemblyReference.cache
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\obj\Debug\CesarM.Form1.resources
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\obj\Debug\CesarM.Properties.Resources.resources
+C:\Users\Yhosz\Desktop\CifradoCesar\CesarM\obj\Debug\CesarM.csproj.GenerateResource.Cache
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\CesarM.exe.config
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\obj\Debug\CesarM.exe
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\obj\Debug\CesarM.pdb
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\CesarM.exe
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\CesarM.pdb
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\mscorlib.dll
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\normidna.nlp
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\normnfc.nlp
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\normnfd.nlp
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\normnfkc.nlp
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\bin\Debug\normnfkd.nlp
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\obj\Debug\CesarM.csprojResolveAssemblyReference.cache
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\obj\Debug\CesarM.Form1.resources
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\obj\Debug\CesarM.Properties.Resources.resources
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CSharp\CifradoCesar\CesarM\obj\Debug\CesarM.csproj.GenerateResource.Cache
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\CesarM.exe.config
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\obj\Debug\CesarM.exe
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\obj\Debug\CesarM.pdb
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\obj\Debug\CesarM.csprojResolveAssemblyReference.cache
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\obj\Debug\CesarM.Form1.resources
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\obj\Debug\CesarM.Properties.Resources.resources
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\obj\Debug\CesarM.csproj.GenerateResource.Cache
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\CesarM.exe
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\CesarM.pdb
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\mscorlib.dll
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\normidna.nlp
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\normnfc.nlp
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\normnfd.nlp
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\normnfkc.nlp
+C:\Users\Yhosz\Desktop\Patrones de Diseño\CifradoCesarGUI\CifradoCesarCSharp\CesarM\bin\Debug\normnfkd.nlp
+C:\Users\Yhosz\Desktop\disor\cifrado\escritorio\codigo\CifradoCesarCSharp\CesarM\bin\Debug\CesarM.exe.config
+C:\Users\Yhosz\Desktop\disor\cifrado\escritorio\codigo\CifradoCesarCSharp\CesarM\obj\Debug\CesarM.exe
+C:\Users\Yhosz\Desktop\disor\cifrado\escritorio\codigo\CifradoCesarCSharp\CesarM\obj\Debug\CesarM.pdb
