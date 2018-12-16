@@ -1,0 +1,9 @@
+C:\Users\Yhosz\Desktop\JuegoVida\JuegoVida\bin\Debug\JuegoVida.exe
+C:\Users\Yhosz\Desktop\JuegoVida\JuegoVida\bin\Debug\JuegoVida.pdb
+C:\Users\Yhosz\Desktop\JuegoVida\JuegoVida\obj\Debug\JuegoVida.csprojResolveAssemblyReference.cache
+C:\Users\Yhosz\Desktop\JuegoVida\JuegoVida\obj\Debug\JuegoVida.FrmAcerca.resources
+C:\Users\Yhosz\Desktop\JuegoVida\JuegoVida\obj\Debug\JuegoVida.frmPrincipal.resources
+C:\Users\Yhosz\Desktop\JuegoVida\JuegoVida\obj\Debug\JuegoVida.Properties.Resources.resources
+C:\Users\Yhosz\Desktop\JuegoVida\JuegoVida\obj\Debug\JuegoVida.csproj.GenerateResource.Cache
+C:\Users\Yhosz\Desktop\JuegoVida\JuegoVida\obj\Debug\JuegoVida.exe
+C:\Users\Yhosz\Desktop\JuegoVida\JuegoVida\obj\Debug\JuegoVida.pdb
